@@ -1,6 +1,6 @@
-# Five cards draw
+# Five-Card Draw
 ## Description
-Basic version of Poker, player will each dealt five cards and play poker with those given cards with a chance to re draw cards after the first betting round.
+Easier version of Poker, player will each dealt five cards and play poker with those given cards with a chance to re draw cards after the first betting round.
 
 ## Rules
 	* Each player are dealt 5 cards facing down
@@ -11,3 +11,4 @@ Basic version of Poker, player will each dealt five cards and play poker with th
 	* Second and final bet round begins, player do the same betting sequence as first round.
 	* After the second round is done, game enter the checking phase, every player open their hands and game will decide the winner by poker card rules, winner takes the bet pool.
 	* Bet increment will be from 10, 25, 50, 100, 250, and 500.
+	* Each player loses when money drops to 15 or lower
