@@ -12,3 +12,8 @@ Easier version of Poker, player will each dealt five cards and play poker with t
 	* After the second round is done, game enter the checking phase, every player open their hands and game will decide the winner by poker card rules, winner takes the bet pool.
 	* Bet increment will be from 10, 25, 50, 100, 250, and 500.
 	* Each player loses when money drops to 15 or lower
+
+## Playing the game
+	* Download DrawFive.py
+ 	* Open terminal and go to the directory that DrawFive.py is saved. 
+  	* Run with python3 DrawFive.py and follow the game instruction on the terminal
